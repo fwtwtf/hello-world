@@ -1,6 +1,7 @@
 <template>
   <h1> đây là blog nha mọi người</h1>
-  <table></table>
+
+ <h2> bằng yêu vũ</h2>
 </template>
 
 <script>
