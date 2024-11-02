@@ -1,7 +1,7 @@
 <template>
   <h1> đây là blog nha mọi người</h1>
 
- <h2> bằng yêu vũ</h2>
+ <h2> làm lại</h2>
 </template>
 
 <script>
